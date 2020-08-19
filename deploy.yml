@@ -16,4 +16,4 @@ spec:
    spec:
      containers:
      - name: web
-       image: itvaibavsharma/httpd:1.1
+       image: itvaibavsharma/httpd:latest
